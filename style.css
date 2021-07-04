@@ -1,0 +1,21 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url("https://wz07mgbh7pfydqcuepstpa-on.drv.tw/Project-88%20Hit%20The%20Goal/Grass.jpg");
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:forestgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: white;
+	font-family: 'Yomogi', cursive;
+    text-shadow: 3px 3px forestgreen;
+    font-size:30px;
+}
